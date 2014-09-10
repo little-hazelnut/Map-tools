@@ -1,1 +1,1 @@
-根据gps数据，生成kml文件，可以在google earth上显示gps轨迹
+锘挎牴鎹甮ps鏁版嵁锛岀敓鎴恔ml鏂囦欢锛屽彲浠ュ湪google earth涓婃樉绀篻ps杞ㄨ抗
