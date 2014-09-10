@@ -1,0 +1,1 @@
+根据gps数据，生成kml文件，可以在google earth上显示gps轨迹
